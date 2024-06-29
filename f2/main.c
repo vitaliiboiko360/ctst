@@ -5,7 +5,7 @@
 
 const int SIZE_128 = 128;
 const int REAL = 0;
-const int IMAG = 0;
+const int IMAG = 1;
 
 int main(int argc, char* argv[]) {
   if (argc < 2) {
